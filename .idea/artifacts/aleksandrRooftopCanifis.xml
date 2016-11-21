@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="aleksandrRooftopCanifis">
+    <output-path>$USER_HOME$/osbot</output-path>
+    <root id="archive" name="aleksandrRooftopCanifis.jar">
+      <element id="module-output" name="aleksandrRooftopCanifis" />
+    </root>
+  </artifact>
+</component>
